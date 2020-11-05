@@ -147,7 +147,7 @@ msoeg（2020）的统计结果是：
 | \*m- | 42.10% | 0.80% | 9.88% |
 | \*ŋ- | 59.09% | 2.20% | 7.13% |
 
-如果把\*n-系算一类，\*m-系和\*ŋ-系另一类，那么可以发现\*r-系的表现在在两类之间。这也还算好理解，\*r-来源是卷舌音，也算[+coronal]，但发音部位毕竟和\*tʰ-有差距，反映在统计数据上了。
+如果把\*n-系算一类，\*m-系和\*ŋ-系另一类，那么可以发现\*r-系的表现在在两类之间。这也还算好理解，\*r-来源是卷舌音，也算[+coronal]，但发音部位毕竟和\*tʰ-有差距，反映在统计数据上了。不过，更复杂的解释也是有可能的，后面会提到。
 
 既然\*r-系有点像\*n-系，比较容易产生清送气塞音，那么我们想一想这个清送气塞音是怎么变出来的。
 
@@ -193,9 +193,8 @@ msoeg（2020）的统计结果是：
 + \*h > \*tʰ /\*#_ɹ̥
 + \*h > \*tʰ /\*#_ɻ̥
 
-归纳一下，写成
-
-规则（1）：\*h > \*tʰ /#_C 其中C满足[+coronal, +approximant, +voiceless]
+归纳一下，写成：  
+规则（1） \*h > \*tʰ /#_C 其中C满足[+coronal, +approximant, +voiceless]
 
 接下来考虑清鼻音[+nasal, +voiceless]的共同变化，刚刚得到的\*n-系是这样的：
 
@@ -209,15 +208,13 @@ msoeg（2020）的统计结果是：
 + \*hŋ̥ > h /\*#_
 + \*hm̥ > hw /\*#_ 或者 \*hm̥ > h/\*#_
 
-这样一看，清鼻音的变化可以这么写。
+这样一看，清鼻音的变化可以这么写：
 
-大部分变成了近音：
+大部分变成了近音，  
+规则（2a） [+nasal, +voiceless] > [+approximant, +voiceless] /#h_
 
-规则（2a）：[+nasal, +voiceless] > [+approximant, +voiceless] /#h_
-
-少部分直接消失了：
-
-规则（2b）：[+nasal, +voiceless] > ∅ /#h_
+少部分直接消失了，  
+规则（2b） [+nasal, +voiceless] > ∅ /#h_
 
 对于\*hŋ̥-来说，其实规则（2a）和规则（2b）没有多大区别，因为经过规则（2a）会变成\*hɰ̥-，而经过规则（2b）会变成\*h-。\*hɰ̥-和\*h-，实在是太像了，都会变成切韵曉母（EMC: h）的。
 
@@ -243,11 +240,13 @@ msoeg（2020）的统计结果是：
 	+ \*hɻ̥ > \*tʰɻ̥ = ʈʰ /\*#_ （一部分）
 	+ \*hɻ̥ > \*hɻ̥ /\*#_ （另一部分）
 
+对于\*r-系，两种变化都有相当比例。msoeg（2020）认为，\*ɻ̥- 与\*h<sup>ɻ</sup>-太接近，导致了相关的分布比较混乱。这个看法，也可以用来解释\*r-系会出现两种不同变化：\*ɻ̥-算[+coronal]，但\*h<sup>ɻ</sup>-不算[+coronal]，导致了后续的不同变化。
+
 前面提过\*m-系、\*n-系、\*ŋ-系、\*r-系还有一些音节会进入切韵的心母（EMC: s）、生母（EMC: ʂ）还有書母（EMC: ç），这些音节怎么办呢？上面的音变规律其实需要做点修改，然而咝音（sibilant）的问题复杂得多，超出了本文的篇幅限制了。
 
 ### 例外
 
-不过\*n-系的清音进入切韵曉母（EMC: h）的情况虽然少，也不是没有。msoeg发现\*n-系的清音进入切韵曉母（EMC: h）的字，大部分（9/13=69%）都在“熯難𪄿”的谐声系里。这个谐声系里面，一样有不少进入切韵透母（EMC: tʰ）的字，比如“灘”、“嘆”之类的，而进入切韵曉母（EMC: h）的最常用字是“漢”。这就有点意思了，“漢”这个字是汉水的名字，长期用来做地名。而地名用字多少需要名从主人，混入方言的嫌疑很大。
+不过\*n-系的清音进入切韵曉母（EMC: h）的情况虽然少，也不是没有。msoeg（2020）发现\*n-系的清音进入切韵曉母（EMC: h）的字，大部分（9/13=69%）都在“熯難𪄿”的谐声系里。这个谐声系里面，一样有不少进入切韵透母（EMC: tʰ）的字，比如“灘”、“嘆”之类的，而进入切韵曉母（EMC: h）的最常用字是“漢”。这就有点意思了，“漢”这个字是汉水的名字，长期用来做地名。而地名用字多少需要名从主人，混入方言的嫌疑很大。
 
 而且我们其实能找到一个有文献记载的方言现象（Baxter and Sagart 2014: 113-114），和透母（EMC: tʰ）和曉母（EMC: h）的区别有关。“天，豫司兗冀以舌腹言之。天，顯也，在上高顯也。青徐以舌頭言之。天，垣也，垣然高而遠也。”（刘熙《释名》）也就是说，“天”这个字，在偏西的地方（豫司兗冀）读若切韵曉母（EMC: h）的“顯”。另外，“天”这个字还出现在译名“天竺”里，对应Hinduka（Pulleyblank 1962: 117），也是用的类似切韵曉母（EMC: h）的读音。然而，“天”的传世读音却是切韵透母（EMC: tʰ）。
 
@@ -272,7 +271,13 @@ msoeg（2020）的统计结果是：
 
 \*ø > T /\*#ḫ_C 其中C是擦音、边音或者r，T是tʰ或者d，T的清浊与C的清浊相同
 
-这个变化已经可以把tʰ无中生有地变出来了。这里的前缀ḫ-，按照藏文字母表的顺序，对应的藏文字母是浊的h（Hill 2009: 128）。看上去不错。然而，这个前缀并没有那么简单。
+眼尖的读者可能会发现上面写的是“tʰ或者d”，而不是藏文转写里面出现“t或者d”，清声母多了个送气出来。这是怎么回事呢？
+
+书面藏语中，浊声母不区分是否送气，清声母有送气和不送气的区别，这和中古汉语是一样的。然而，清声母是送气的，还是不送气的，在书面藏语中是由前缀决定的。（Hill 2007: 471-472）因为这一点，上面的转写，并没有直接写出清声母是否送气。
+
+具体到ḫ-前缀来说，后面接的清声母都是送气的。也就是说，上面转写的t其实是tʰ。
+
+这样，孔好古定律已经可以把tʰ无中生有地变出来了。这里的前缀ḫ-，按照藏文字母表的顺序，对应的藏文字母是浊的h（Hill 2009: 128）。看上去不错。然而，这个前缀并没有那么简单。
 
 ### 汉藏语：同源考虑
 
@@ -284,82 +289,84 @@ msoeg（2020）的统计结果是：
 
 另一方面，从蒲立本（Pulleyblank 1973）开始，书面藏语的前缀ḫ用来与汉语的清浊交替做比较。沙加尔（Sagart 1993）从苗瑶语中的汉语借词考虑，把对应的汉语前缀改成\*N-。沙加尔（Sagart 1999: 74）的\*N-也表示一个鼻音，具体的发音部位被后面的声母同化。
 
-### h前缀与N前缀的对比
+### \*h-前缀与\*N-前缀的对比
 
-之前把前缀X构拟成\*h-，既然藏语里面变出塞音的前缀可能是\*N-，那么再从音韵变化的角度看看把前缀X构拟成\*N-会如何。
+之前把前缀X构拟成\*h-，既然藏语里面变出塞音的前缀可能是\*N-，那么再从音韵变化的角度，看看把前缀构拟成\*N-会如何。
 
 #### 规则（1）
 
-用\*h-前缀的版本：
-
+用\*h-前缀的版本：  
 \*h > \*tʰ /\*#_C 其中C满足[+coronal, +approximant, +voiceless]
 
-用N-前缀的版本：
-
+用N-前缀的版本：  
 \*ø > \*t /\*#N_C 其中C满足[+coronal, +approximant, +voiceless]
 
-然后，
+然后，  
+\*[-aspirated, +voiceless] > \*[+aspirated, +voiceless] /\*#N_  
+这里类比藏文的ḫ-前缀。而藏文的ḫ-前缀，会把后面不送气的清声母变成送气的清声母。（Li 1933）
 
-\*N > \*h /\*#_
+最后，  
+\*N > \*ø /\*#_
 
-最后，
+从后世的切韵来看，\*N肯定是要消失的，但消失的时候变成什么，可以允许不同的方案。直接彻底消失变成\*ø可以，消失的时候留下一个\*h其实也行，因为后面的声母已经是送气的，结果并没有什么实际不同。也就是说，写成\*N > \*h /\*#_也可以。
 
-\*ht > \*tʰ /\*#_
-
-\*N-前缀的版本，优点是能解释t为什么会冒出来，缺点是后期还是得变成\*h-。
+\*N-前缀的版本，和\*h-前缀的版本比，优点是能解释t为什么会冒出来，缺点是需要\*N-后来消失。
 
 #### 规则（2a）
 
-用\*h-前缀的版本：
-
+用\*h-前缀的版本：  
 \*[+nasal, +voiceless] > \*[+approximant, +voiceless] /\*#h_
 
-用\*N-前缀的版本：
-
+用\*N-前缀的版本：  
 \*[+nasal, +voiceless] > \*[+approximant, +voiceless] /\*#N_
 
 这里\*N-前缀更好，能够解释[+nasal]特征为什么消失了。原因是\*N-前缀的异化作用。
 
 #### 规则（2b）
 
-用\*h-前缀的版本：
-
+用\*h-前缀的版本：  
 \*[+nasal, +voiceless] > \*∅ /\*#h_
 
-用N-前缀的版本：
-
+用N-前缀的版本：  
 \*[+nasal, +voiceless] > \*∅ /\*#N_
 
 这里也是\*N-前缀更好，原因和规则（2a）是一样的：\*N-前缀的异化作用，可以解释鼻音为什么消失。
 
-不考虑同源关系，只考虑音韵变化，\*N-前缀对于解释大部分变化都比\*h-前缀更有利，但是需要在后期变成\*h-。
+#### \*h-前缀与\*N-前缀的对比总结
+
+不考虑同源关系，只考虑音韵变化，\*N-前缀对于解释大部分变化都比\*h-前缀更有利，只是需要*N-前缀在后期脱落。
 
 ### 音变总结
 
 如果统一用\*N-前缀的话，那么之前的音变规则，按照大致的发生顺序排列，会变成这样：
 
-规则（3a）：（大部分）
+规则（3a） （大部分）
 \*[+nasal, +voiceless] > \*[+approximant, +voiceless] /\*#N_
 
 或者
 
-规则（3b）：（小部分）
-\*[+nasal, +voiceless] > \*∅ /\*#N_
+规则（3b） （小部分）
+\*[+nasal, +voiceless] > \*∅ /\*#N_  
+鼻音被异化。
 
-规则（4）：
-\*ø > \*t /\*#N_C 其中C满足[+coronal, +approximant, +voiceless]
+规则（4）
+\*ø > \*t /\*#N_C 其中C满足[+coronal, +approximant, +voiceless]  
+清塞音被创造出来。
 
-规则（5）：
-\*N > \*h /\*#_
+规则（5）
+\*[-aspirated, +voiceless] > \*[+aspirated, +voiceless] /\*#N_  
+类比藏文，\*N-前缀后的清声母全部都是送气的。
 
-规则（6）：
-\*ht > \*tʰ /\*#_
+规则（6）
+\*N > \*ø /\*#_
+（写成\*N > \*h /\*#_也可以）  
+前缀\*N-消失。
 
-其中规则（5）直接把鼻音\*N变成了\*h。这有点奇怪。藏语的\*N变成什么了呢？张谢蓓蒂和张琨（Chang and Chang 1977: 230）写道：
+其中规则（6）让前缀\*N-消失了，这有点奇怪。藏语的前缀\*N-变成什么了呢？张谢蓓蒂和张琨（Chang and Chang 1977: 230）写道：
 
 > Most likely the Tibetan writing system was devised for a dialect which was the forerunner of the Lhasa dialect or a Lhasa-type dialect in which the nasal preinitial had already been denasalized.
 
-到了书面藏语变成ḫ了。考虑到书面藏语在前缀位置并不区分清浊，也就是在前缀位置没有h和ḫ的对立，因此藏语的这个变化很像我们为汉语构拟的\*N > \*h /\*#_。
+到了书面藏语变成ḫ了。考虑到书面藏语在前缀位置并不区分清浊，也就是在前缀位置没有h和ḫ的对立，因此藏语的这个变化很像\*N > \*h /\*#_。
 
 ### 演变分布
 
@@ -385,13 +392,27 @@ msoeg（2020）的统计结果是：
 
 最简单，预测能力也最强的解释是：汉语并不存在\*m和\*m̥之间的对立，所有的\*Nm̥在音位上其实是\*Nm（其他鼻音和\*ɻ也类似），音变规则中的[+voiceless]应该去掉。然而别的解释也是有可能的。
 
+### 兼容性：与沙加尔的\*N-前缀
+
+之前提到了沙加尔（Baxter and Sagart 2014: 116-119）的\*N-前缀。他的\*N-前缀会把后面的清不送气声母变成浊的，比如：
+
++ \*t > \*d /\*#N_
+
+我们之前构拟的\*N-前缀，会把清声母变成送气的，也就是：
+
++ \*t > \*tʰ /\*#N_
+
+上面这两个变化，发生在同一个时代是互相冲突的。然而，如果这两个变化发生在不同的时代，所处的音系有区别，那么就可以互相兼容了。
+
+另外，沙加尔（Baxter and Sagart 2014: 122-123）并没有找到他的\*N-前缀在鼻音前面的例子。因此，从分布的角度来看，沙加尔的\*N-前缀，和这篇文章构拟的\*N-前缀，是可以拼在一起的。
+
 ## 注释
 
 <ol>
 <li id="ref_1"><a href="#ref_1_0">^</a><span>这里的清声母，涉及到被称为“清鼻音”的现象。这个现象见于董同龢（1948: 12-14）。雅洪托夫（1986: 47-51，原版论文发表于1960年）有更系统的讨论。</span></li>
 <li id="ref_2"><a href="#ref_2_0">^</a><span>严格来讲，見母、溪母和疑母在切韵中各自包括两个不同的辅音。一个是舌根音（velar），另一个是小舌音（uvular）。因为这篇文章不涉及舌根音和小舌音的对立。所以为了简单起见，都用舌根音的符号来表示了。</span></li>
 <li id="ref_3"><a href="#ref_3_0">^</a><span>命名、藏文转写和材料都来自丘内藤（Hill 2019: 17）。更早的时候，李方桂（Li 1933）和柯蔚南（Coblin 1976）讨论过这些变化。</span></li>
-<li id="ref_4"><a href="#ref_4_0">^</a><span>原文中藏文字母འ用了字母v而不是ḫ来转写，本文统一换成ḫ</span></li>
+<li id="ref_4"><a href="#ref_4_0">^</a><span>原文中藏文字母འ用了字母v而不是ḫ来转写，本文统一换成ḫ。</span></li>
 </ol>
 
 ## 参考文献
@@ -401,9 +422,10 @@ msoeg（2020）的统计结果是：
 + Chang, Betty Shefts and Kun Chang (1977). Tibetan prenasalized initials. *Bulletin of the Institute of History and Philology* 48.2, 229-243.
 + Coblin, W. South (1976). Notes on Tibetan verbal morphology. *T’oung Pao* 62, 45–70.
 + Hill, Nathan W. (2005). Once more on the letter འ. *Linguistics of the Tibeto-Burman Area* 28.2, 111-141.
++ Hill, Nathan W. (2007). Aspirated and unaspirated voiceless consonants in Old Tibetan. *Languages and Linguistics* 8.2, 471–93.
 + Hill, Nathan W. (2009). Tibetan <ḥ-> as a plain initial and its place in Old Tibetan phonology. *Linguistics of the Tibeto-Burman Area* 32.1, 115–140.
 + Hill, Nathan W. (2019). *The historical Phonology of Tibetan, Burmese, and Chinese.* Cambridge: Cambridge University Press.
-+ Li, Fang-kuei (1933). Certain phonetic influences of the Tibetan prefixes upon the root initials. *Bulletin of the Institute of History and Philology* 6.2: 135–157.
++ Li, Fang-kuei (1933). Certain phonetic influences of the Tibetan prefixes upon the root initials. *Bulletin of the Institute of History and Philology* 6.2, 135–157.
 + msoeg. (2020)【汉语音韵学笔记】上古音·从古声十九纽到四分法. <https://zhuanlan.zhihu.com/p/139359388>.
 + Pulleyblank, Edwin G. (1962–1963). The consonantal system of Old Chinese. *Asia Major* 9., 58–144, 206–265.
 + Pulleyblank, Edwin G. (1973). Some new hypotheses concerning word families in Chinese. *Journal of Chinese Linguistics* 1.1, 111-125.
